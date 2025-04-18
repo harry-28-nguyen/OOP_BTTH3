@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1744860274 source:d:\the anh\uit\oop\lab_3\bai5\main.cpp
+	<bits/stdc++.h>
+	"DaThuc.h"
+
+1744860637 d:\the anh\uit\oop\lab_3\bai5\include\dathuc.h
+	<vector>
+
+1744859952 source:d:\the anh\uit\oop\lab_3\bai5\src\dathuc.cpp
+	"DaThuc.h"
+	<bits/stdc++.h>
+

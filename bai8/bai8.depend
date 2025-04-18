@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744948685 source:d:\the anh\uit\oop\lab_3\bai8\main.cpp
+	<iostream>
+	"NhanVienSX.h"
+
+1744948039 d:\the anh\uit\oop\lab_3\bai8\include\nhanviensx.h
+	<string>
+	<vector>
+
+1744948074 source:d:\the anh\uit\oop\lab_3\bai8\src\nhanviensx.cpp
+	"NhanVienSX.h"
+	<iostream>
+

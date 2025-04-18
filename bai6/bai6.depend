@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1744950773 source:d:\the anh\uit\oop\lab_3\bai6\src\candidate .cpp
+	"Candidate .h"
+	<iostream>
+
+1744950734 d:\the anh\uit\oop\lab_3\bai6\include\candidate .h
+	<string>
+
+1744952499 source:d:\the anh\uit\oop\lab_3\bai6\main.cpp
+	<iostream>
+	"ListCandidate.h"
+
+1744952750 d:\the anh\uit\oop\lab_3\bai6\include\listcandidate.h
+	<Candidate .h>
+	<vector>
+

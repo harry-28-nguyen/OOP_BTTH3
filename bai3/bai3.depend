@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1744523400 source:d:\the anh\uit\oop\lab_3\bai3\main.cpp
+	<iostream>
+	"DSPhanSo.h"
+
+1744522955 d:\the anh\uit\oop\lab_3\bai3\include\dsphanso.h
+	<PhanSo.h>
+
+1744541671 d:\the anh\uit\oop\lab_3\bai3\include\phanso.h
+
+1744540555 source:d:\the anh\uit\oop\lab_3\bai3\src\dsphanso.cpp
+	"DSPhanSo.h"
+	<iostream>
+	<vector>
+
+1744540853 source:d:\the anh\uit\oop\lab_3\bai3\src\phanso.cpp
+	"PhanSo.h"
+	<iostream>
+

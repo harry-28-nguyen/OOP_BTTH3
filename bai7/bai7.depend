@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744946597 source:d:\the anh\uit\oop\lab_3\bai7\main.cpp
+	<iostream>
+	"NhanVienVP.h"
+
+1744946710 d:\the anh\uit\oop\lab_3\bai7\include\nhanvienvp.h
+	<string>
+	<vector>
+
+1744946729 source:d:\the anh\uit\oop\lab_3\bai7\src\nhanvienvp.cpp
+	"NhanVienVP.h"
+	<bits/stdc++.h>
+

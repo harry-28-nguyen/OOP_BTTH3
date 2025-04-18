@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1744254096 source:d:\bai1\main.cpp
+	<iostream>
+	<cmath>
+	"TAMGIAC.h"
+
+1744250606 d:\bai1\include\diem.h
+
+1744254409 source:d:\bai1\src\tamgiac.cpp
+	"TAMGIAC.h"
+	<iostream>
+
+1744253673 d:\bai1\include\tamgiac.h
+	<DIEM.h>
+
+1744252341 source:d:\bai1\src\diem.cpp
+	"DIEM.h"
+	<iostream>
+	<cmath>
+
+1744445088 source:d:\the anh\uit\oop\lab_3\bai1\src\diem.cpp
+	"DIEM.h"
+	<iostream>
+	<cmath>
+
+1744445067 d:\the anh\uit\oop\lab_3\bai1\include\diem.h
+
+1744434279 source:d:\the anh\uit\oop\lab_3\bai1\src\tamgiac.cpp
+	"TAMGIAC.h"
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1744445361 d:\the anh\uit\oop\lab_3\bai1\include\tamgiac.h
+	<DIEM.h>
+
+1744445796 source:d:\the anh\uit\oop\lab_3\bai1\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"TAMGIAC.h"
+

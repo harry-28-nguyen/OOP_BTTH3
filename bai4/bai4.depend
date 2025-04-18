@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744778964 source:d:\the anh\uit\oop\lab_3\bai 4\src\array.cpp
+	"Array.h"
+	<iostream>
+
+1744778962 d:\the anh\uit\oop\lab_3\bai 4\include\array.h
+
+1744777561 source:d:\the anh\uit\oop\lab_3\bai 4\main.cpp
+	<iostream>
+	"Array.h"
+

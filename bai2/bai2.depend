@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1744274292 source:d:\the anh\uit\oop\lab_3\bai2\src\diem.cpp
+	"DIEM.h"
+	<iostream>
+	<cmath>
+
+1744274292 d:\the anh\uit\oop\lab_3\bai2\include\diem.h
+
+1744275290 source:d:\the anh\uit\oop\lab_3\bai2\main.cpp
+	<bits/stdc++.h>
+	"DaGiac.h"
+
+1744275394 d:\the anh\uit\oop\lab_3\bai2\include\dagiac.h
+	<DIEM.h>
+	<vector>
+
+1744429740 source:d:\the anh\uit\oop\lab_3\bai2\src\dagiac.cpp
+	"DaGiac.h"
+	<bits/stdc++.h>
+
